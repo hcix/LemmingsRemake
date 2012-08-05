@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<panel id="mainMenu" layout="MigLayout">
+	<label icon="graphics/images/mm_logo.gif" constraints="wrap"/>
+	<panel id="buttonsPanel" constraints="center" layout="MigLayout">
+		<button icon="graphics/images/fun.gif" ActionCommand="fun"/>
+		<button icon="graphics/images/tricky.gif" ActionCommand="tricky" constraints="wrap"/>
+		<button icon="graphics/images/taxing.gif" ActionCommand="taxing"/>
+		<button icon="graphics/images/mayhem.gif" ActionCommand="mayhem"/>
+	</panel>
+</panel>

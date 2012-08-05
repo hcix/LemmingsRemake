@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<panel id="controllerPanel" layout="MigLayout('insets 0')" preferredSize="800,110" size="800,110">
+
+	<panel id="controlButtons" layout="MigLayout" constraints="wrap, w 900px, h 105px" 
+		preferredSize="900,105" size="900,105" maximumSize="900,105" >
+		<ControlButton id="climbButton" unpressedImg="control_climb.gif" animation="control_climb_sel.gif"
+			controlId="1" actionCommand="1" toolTipText="Assign Climb skill" constraints="pos 0 0, w 63, h 100"/>
+		<ControlButton id="floatButton" unpressedImg="control_float.gif" animation="control_float_sel.gif"
+			controlId="2" actionCommand="2" toolTipText="Assign Float skill" constraints="pos 65 0, w 63, h 100"/>
+		<ControlButton id="explodeButton" unpressedImg="control_explode.gif" animation="control_explode_sel.gif"
+			controlId="3" actionCommand="3" toolTipText="Assign Explode skill" constraints="pos 130 0, w 63, h 100"/>
+		<ControlButton id="blockButton" unpressedImg="control_block.gif" animation="control_block_sel.gif"
+			controlId="4" actionCommand="4" toolTipText="Assign Block skill" constraints="pos 195 0, w 63, h 100"/>
+		<ControlButton id="buildButton" unpressedImg="control_build.gif" animation="control_build_sel.gif"
+			controlId="5" actionCommand="5" toolTipText="Assign Build skill" constraints="pos 260 0, w 63, h 100"/>
+		<ControlButton id="bashButton" unpressedImg="control_bash.gif" animation="control_bash_sel.gif"
+			controlId="6" actionCommand="6" toolTipText="Assign Bash skill" constraints="pos 325 0, w 63, h 100"/>
+		<ControlButton id="mineButton" unpressedImg="control_mine.gif" animation="control_mine_sel.gif"
+			controlId="7" actionCommand="7" toolTipText="Assign Mine skill" constraints="pos 390 0, w 63, h 100"/>
+		<ControlButton id="digButton" unpressedImg="control_dig.gif" animation="control_dig_sel.gif"
+			controlId="8" actionCommand="8" toolTipText="Assign Dig skill" constraints="pos 455 0, w 63, h 100"/>
+		<ControlButton id="moreButton" image="control_more.gif"
+			controlId="9" actionCommand="9" toolTipText="Increase Release Rate" constraints="pos 520 0, w 63, h 100"/>
+		<ControlButton id="lessButton" image="control_less.gif"
+			controlId="10" actionCommand="10" toolTipText="Decrease Release Rate" constraints="pos 585 0, w 63, h 100"/>
+		<ControlButton id="pauseButton" unpressedImg="control_pause.gif" animation="control_pause_sel.gif"
+			controlId="11" actionCommand="11" toolTipText="Pause Game" constraints="pos 650 0, w 63, h 100"/>
+		<ControlButton id="speedButton" unpressedImg="control_speed.gif" animation="control_speed_sel.gif"
+			controlId="12" actionCommand="12" toolTipText="Fast Forward" constraints="pos 715 0, w 63, h 100"/>
+		<ControlButton id="nukeButton" unpressedImg="control_nuke.gif" animation="control_nuke_sel.gif"
+			controlId="13" actionCommand="13" toolTipText="Kill all lemmings and end level" constraints="pos 780 0, w 63, h 100"/>
+	</panel>
+	
+	<panel id="controlStatsPanel" layout="MigLayout('fill', '[][][][]push', '[]')" 
+		constraints="alignx, w 900px">
+		<panel id="stateMessagePanel" border="RaisedBevelBorder">
+			<textfield id="messageField" editable="false" background="234,234,234" border="null" columns="37"/>
+		</panel>
+		<panel id="outPanel" border="RaisedBevelBorder">
+			<label id="outLabel" labelfor="outField" 
+				text="Out: "/>
+			<textfield id="outField" editable="false" border="null" background="234,234,234" columns="5"/>
+		</panel>
+		<panel id="homePanel" border="RaisedBevelBorder">
+			<label id="homeLabel" border="null" labelfor="homeField" 
+				text="Home: "/>
+			<textfield id="homeField" editable="false" border="null" background="234,234,234" columns="5"/>
+		</panel>
+		<panel id="timePanel"  border="RaisedBevelBorder">
+			<label id="timeLabel" labelfor="timeField" 
+				text="Time: "/>
+			<textfield id="timeField" editable="false" border="null" background="234,234,234" columns="5"/>
+		</panel>
+	</panel>
+</panel>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<level xmlns="http://www.hciechowski.com/games/lemmingRemake">
+	<title>Heaven can wait (we hope!!!!)</title>
+	<password>ICENNONPFJ</password>
+	<rate>1</rate>
+	<lemmings>100</lemmings>
+	<goal>100</goal>
+	<playTime>120</playTime>
+	<lemmingTypes>
+		<climbers>30</climbers>
+		<floaters>30</floaters>
+		<exploders>30</exploders>
+		<blockers>0</blockers>
+		<builders>30</builders>
+		<bashers>30</bashers>
+		<miners>30</miners>
+		<diggers>30</diggers>
+	</lemmingTypes>
+	<map>
+		,41a216b2a,a197ba17b4a13b6a11b4a16b2a127b2a,a196b3a16b4a13b20a16b3a37b6a11b4a69b5a,a196b4a16b4a12b19a16b4a37b20a71b6a,a197b3a16b4a11b16a19b6a36b19a10b2a19b3a39b7a,a197b3a16b4a10b11aba23b6a27ba7b16a13b4a17b4a39b8a,a198b3a15b5a11b6a4ba22b7a10ba16ba6b11aba17b5a16b4a39bab7a,a198b3a15b5a12b5a26b8a9b3a14b2a8b6a4ba17b6a15b4a39bab9a,a198b3a16b4a13b4a26b8a9b3a14b2a9b5a22b7a14b4a23b6a10ba3b9aba,a198b4a15b4a13b4a25b5ab4a8b3a13b3a10b4a22b8a13b4a21b17a6b11a,a199b3a15b5a12b4a25b5ab4a9b3a12b3a10b4a22b9a12b4a22b21a2b9a,a199b4a15b4a13b3a24b4abab4a9b3a11b4a10b4a22b11a10b4a16b38a,a199b4a14b6a12b3a24b4a4b3a10b3a10b4a11b3a22b12a9b4a15b38a,a200b3a11b10a11b4a2b6a14b4a5b3a10b3a10b4a11b3a22b6ab6a7b5a17b36a,a200b4a6b14a11b14a12b4a5b4a9b4a8b4a12b4a2b6a14b5a2b6a6b5a18b34a,a200b5ab18a11b13a12b5a5b4a10b3a8b4a12b14a12b5a3b6a5b4a20b32a,a200b23a11b12a14b4a7b3a10b4a6b5a12b13a13b4a5b5a5b4a20b17aba5b8a,a201b15a3b5a9b10a17b3a8b3a10b4a6b5a11b12a15b4a6b5a4b4a19b11a15b6a,a201b11ab2a4b5a10b6a19b4a8b4a10b3a6b4a11b10a18b4a7b5a3b4a19b3a24b4a,a200b9a4ba5b5a10b5a20b4a8b7a7b4a5b4a12b6a21b4a8b4a3b4a20ba24b5a127ia,a199b7a7ba5b5a10bab3a19b5a8b7a7b4a5b4a12b5a22b4a9b4a2b4a20ba24b4a,a200bab4a13b5a10bab4a18b4a4b12a8b4a4b4a12bab3a22b4a10b4ab3a21ba23b4a,a200bab4a14b5a11b4a18b4ab14a9b4a3b5a12bab4a21b4a11b7a21ba23b4a,a202b5a13b5a11b4a17b19a10b5ab5a15b4a21b5a10b7a21ba22b3aba,a202b5a13b5a11b4a17b11a5b3a11b4ab5a15b4a21b5a11b6a43b3a2ba,a203b5a13b4a11b4a17b5aba9b4a10b4ab4a16b4a21b5a12b4a44b3a,a203b5a13b4a11b4a17b4a2ba9b4a11b7a17b4a21b4a14b3a43b2aba,a203b5a13b5a9b6a15b4a3ba9b4a12b5a18b4a22b2a16b2a46ba91b75a,a203b5a13b5a5b15a10b4a13b4a13b4a17b6a22ba16ba47ba91b75a,a203b5a14b4a4b18a8b3a15b3a14b2a14b15a17ba64ba91b75a,a204b4a15ba9b17a5b4a15b3a14ba14b18a80ba91b75a,a205b3a15ba11b3a2b9a6b3a16b4a31b17a170b75a,a205b2a29ba18b3a17b3a33b3a2b9a171b75a,a255b2a18b3a34ba207b29a,a254b3a20ba242b29a,a254b3a263b29a,a254baba263b29a,a256ba264b27a,a523b23a,2a526b17a,a527b16a,2a526b17a,a526b16a,a526b17a,4a527b16a,2a526b16a,2a526b17a,4a527b16a,2a526b17a,a526b16a,a526b17a,4a527b16a,2a526b17a,a526b16a,a526b17a,4a527b16a,2a526b16a,2a526b17a,2a526b17a184ba,a526b17a183b3a,a523b23a180b3a,a12ba510b23a180b3a,a11b3a507b27a177b5a,a11b3a506b29a176b5a,2a10b5a505b29a175b7a,3a9b7a131b196a37ba72ba31b101a137b9a,a9b7a131b196a36b3a37ba32b3a29b102a137b9a,a9b7a131b196a36b3a36b3a31b3a29b102a137b9a,a8b9a130b196a36b3a36b3a31b3a29b102a136b11a,a8b9a130b196a35b5a35b3a30b5a27b103a136b11a,a8b9a130b196a35b5a34b5a29b5a27b103a136b11a,a7b11a129b196a35b5a34b5a29b5a27b103a135b13a,a7b11a129b196a34b7a33b5a28b7a25b104a135b13a,a7b11a129b196a34b7a32b7a27b7a25b104a135b13a,a6b13a128b196a34b7a32b7a27b7a25b104a134b15a,a6b13a128b196a33b9a31b7a26b9a23b105a134b15a,a6b13a128b196a33b9a30b9a25b9a23b105a134b15a,a5b15a127b196a33b9a30b9a25b9a23b105a133b17a,a5b15a127b196a32b11a29b9a24b11a21b106a133b17a,a5b15a127b196a32b11a28b11a23b11a21b106a133b17a,a4b17a126b196a32b11a28b11a23b11a21b106a132b19a,a4b17a126b196a31b13a27b11a22b13a19b107a132b19a,a4b17a126b196a31b13a26b13a21b13a19b107a132b19a,a3b19g130b29g55b29g45b29g35b13g26b13g21b13g19b107g131b21a,a3b19g130b29g55b29g45b29g34b15g25b13g20b15g17b108g131b21a,a3b19g130b29g55b29g45b29g34b15g24b15g19b15g17b108g131b21a,a2b21g129b29g55b29g45b29g34b15g24b15g19b15g17b108g130b23a,a2b21g129b29g55b29g45b29g33b17g23b15g18b17g15b109g130b23a,a2b21g130b27g57b27g47b27g34b17g22b17g17b17g15b109g130b23a,ab23g131b23g61b23g51b23g36b17g22b17g17b17g15b109g129b25a,ab23g131b23g61b23g51b23g35b19g21b17g16b19g13b110g129b25a,ab23g135b16g68b16g58b16g38b19g20b19g15b19g13b110g129b25a,b25g134b16g68b16g58b16g38b19g20b19g15b19g13b110g128b,b25g133b17g67b17g57b17g37b21g19b19g14b21g11b111g128b,b25g133b16g68b16g58b16g38b21g18b21g13b21g11b111g128b</map>
+	<door>
+		<filename dir="anims">door4</filename>	
+		<xVal>362</xVal>
+		<yVal>192</yVal>
+	</door>
+	<exit>
+		<filename dir="anims">exit5</filename>	
+		<xVal>1030</xVal>
+		<yVal>32</yVal>
+	</exit>
+ 	<object>
+  		<filename dir="anims">fire</filename>	
+		<xVal>36</xVal>
+		<yVal>280</yVal>
+	</object>
+	<object>
+  		<filename dir="objects">cone1</filename>	
+		<xVal>0</xVal>
+		<yVal>246</yVal>
+	</object>
+	<object>
+  		<filename dir="anims">fire</filename>	
+		<xVal>164</xVal>
+		<yVal>280</yVal>
+	</object>
+  	<object>
+  		<filename dir="anims">fire</filename>	
+		<xVal>292</xVal>
+		<yVal>280</yVal>
+	</object>
+	<object>
+  		<filename dir="anims">fire</filename>	
+		<xVal>420</xVal>
+		<yVal>280</yVal>
+	</object>
+	<object>
+  		<filename dir="anims">fire</filename>	
+		<xVal>548</xVal>
+		<yVal>280</yVal>
+	</object>
+	<object>
+  		<filename dir="anims">fire</filename>	
+		<xVal>676</xVal>
+		<yVal>280</yVal>
+	</object>
+	<object>
+  		<filename dir="anims">steelblock7</filename>	
+		<xVal>294</xVal>
+		<yVal>260</yVal>
+	</object>
+	<object>
+  		<filename dir="anims">fire</filename>	
+		<xVal>804</xVal>
+		<yVal>280</yVal>
+	</object>
+	<object>
+  		<filename dir="anims">fire</filename>	
+		<xVal>932</xVal>
+		<yVal>280</yVal>
+	</object>
+	<object>
+  		<filename dir="objects">cone1</filename>	
+		<xVal>736</xVal>
+		<yVal>260</yVal>
+	</object>
+	<object>
+  		<filename dir="objects">cone1</filename>	
+		<xVal>814</xVal>
+		<yVal>262</yVal>
+	</object>
+  	<object>
+  		<filename dir="objects">cone1</filename>	
+		<xVal>260</xVal>
+		<yVal>882</yVal>
+	</object>
+	<object>
+  		<filename dir="anims">fire</filename>	
+		<xVal>1060</xVal>
+		<yVal>280</yVal>
+	</object>
+	<object>
+  		<filename dir="anims">fire</filename>	
+		<xVal>1188</xVal>
+		<yVal>280</yVal>
+	</object>
+	<object>
+  		<filename dir="anims">fire</filename>	
+		<xVal>1316</xVal>
+		<yVal>280</yVal>
+	</object>
+	<object>
+  		<filename dir="objects">steelblock8</filename>	
+		<xVal>950</xVal>
+		<yVal>280</yVal>
+	</object>
+	<object>
+  		<filename dir="objects">cone1</filename>	
+		<xVal>1428</xVal>
+		<yVal>240</yVal>
+	</object>
+</level>

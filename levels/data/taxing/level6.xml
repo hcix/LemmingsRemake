@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<level xmlns="http://www.hciechowski.com/games/lemmingRemake">
+	<title>Compression Method 1</title>
+	<password>MJJNLHGCGN</password>
+	<rate>99</rate>
+	<lemmings>50</lemmings>
+	<goal>30</goal>
+	<playTime>180</playTime>
+	<lemmingTypes>
+		<climbers>0</climbers>
+		<floaters>0</floaters>
+		<exploders>3</exploders>
+		<blockers>3</blockers>
+		<builders>0</builders>
+		<bashers>5</bashers>
+		<miners>0</miners>
+		<diggers>1</diggers>
+	</lemmingTypes>
+	<map>
+		a40b16a80b16a49b16a48b16a48b16a111b16a,46a32b32a72b16a49b16a48b16a48b16a103b32a,4a24b48a64b16a49b16a48b16a48b16a95b48a,8a32b32a72b16a49b16a48b16a48b16a103b32a,4a40b16a80b16a49b16a48b16a48b16a111b16a,12a40b16a71b32a34b32a32b32a34b30a103b16a,8a40b16a64b48a17b48a16b48a16b48a95b16a,7a40b16a64b48a17b48a16b48a16e48a95b16a,a40b16a40b216e49a95b16a,4a40b16a36b220e49a95b16a,16a40b16a32b224e49a95b16a,4a40b16a28b228e49a95b16a,3a40b16a26e14b216e49a95b16a,10a40b16a26e278a96b16a,a40b16a26e278a76ia19b16a,a40b16a26e278a96b16a,7a32b24a26e278a48b72a,4a24b40a18e278a40b88a,a24b40a336b88a,3a24b48a320b104a,4a16b72a32ha63ha63ha63ha71b120a,a16b72a296b120a,3a8b96a272b136a,4b,4
+	</map>
+	<door>
+		<filename dir="anims">door2</filename>	
+		<xVal>184</xVal>
+		<yVal>72</yVal>
+	</door>
+	<door>
+		<filename dir="anims">door2</filename>	
+		<xVal>312</xVal>
+		<yVal>72</yVal>
+	</door>
+	<door>
+		<filename dir="anims">door2</filename>	
+		<xVal>440</xVal>
+		<yVal>72</yVal>
+	</door>
+	<door>
+		<filename dir="anims">door2</filename>	
+		<xVal>568</xVal>
+		<yVal>72</yVal>
+	</door>
+	<exit>
+		<filename dir="anims">exit3</filename>	
+		<xVal>836</xVal>
+		<yVal>224</yVal>
+	</exit>
+	<trap>
+		<filename dir="traps">thumper</filename>
+		<xVal>210</xVal>
+		<yVal>282</yVal>
+		<trapX>120</trapX>
+		<trapY>148</trapY>
+		<time>1300</time>
+	</trap>
+	<trap>
+		<filename dir="traps">thumper</filename>
+		<xVal>338</xVal>
+		<yVal>288</yVal>
+		<trapX>184</trapX>
+		<trapY>148</trapY>
+		<time>1300</time>
+	</trap>
+	<trap>
+		<filename dir="traps">thumper</filename>
+		<xVal>466</xVal>
+		<yVal>282</yVal>
+		<trapX>248</trapX>
+		<trapY>148</trapY>
+		<time>1300</time>
+	</trap>
+	<trap>
+		<filename dir="traps">thumper</filename>
+		<xVal>594</xVal>
+		<yVal>282</yVal>
+		<trapX>312</trapX>
+		<trapY>148</trapY>
+		<time>1300</time>
+	</trap>
+	<object>
+		<filename dir="anims">steelblock12</filename>
+		<xVal>164</xVal>
+		<yVal>234</yVal>
+	</object>
+	<object>
+		<filename dir="anims">steelblock13</filename>
+		<xVal>192</xVal>
+		<yVal>254</yVal>
+	</object>
+	<object>
+		<filename dir="anims">steelblock13</filename>
+		<xVal>240</xVal>
+		<yVal>254</yVal>
+	</object>
+	<object>
+		<filename dir="anims">steelblock13</filename>
+		<xVal>288</xVal>
+		<yVal>254</yVal>
+	</object>
+	<object>
+		<filename dir="anims">steelblock13</filename>
+		<xVal>336</xVal>
+		<yVal>254</yVal>
+	</object>
+	<object>
+		<filename dir="anims">steelblock13</filename>
+		<xVal>384</xVal>
+		<yVal>254</yVal>
+	</object>
+	<object>
+		<filename dir="anims">steelblock13</filename>
+		<xVal>432</xVal>
+		<yVal>254</yVal>
+	</object>
+	<object>
+		<filename dir="anims">steelblock13</filename>
+		<xVal>480</xVal>
+		<yVal>254</yVal>
+	</object>
+	<object>
+		<filename dir="anims">steelblock13</filename>
+		<xVal>528</xVal>
+		<yVal>254</yVal>
+	</object>
+	<object>
+		<filename dir="anims">steelblock13</filename>
+		<xVal>576</xVal>
+		<yVal>254</yVal>
+	</object>
+	<object>
+		<filename dir="anims">steelplate23</filename>
+		<xVal>624</xVal>
+		<yVal>178</yVal>
+	</object>
+</level>

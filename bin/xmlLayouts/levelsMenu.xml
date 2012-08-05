@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<panel layout="MigLayout('fill', '[]', '[][][][]')">	
+	
+<!--  <button text="Main Menu" constraints="pos 0% 0%" action="backToMain"/> -->
+	
+	<panel constraints="growx, wrap">
+		<label id="title" font="Georgia-BOLD-24" foreground="blue"/>
+	</panel>
+	
+	<panel id="levels" constraints="wrap, center"/>
+	
+	<panel constraints="wrap, center">
+		<label labelfor="passwordField" text="Password: "/>
+		<textfield id="passwordField" columns="20" editable="true" />
+	</panel>
+	<panel id="buttonsPanel" constraints="growx, growy">
+		<button text="Main Menu" action="backToMain"/>
+		<button text="Play" action="play"/>
+	</panel>
+
+</panel>
